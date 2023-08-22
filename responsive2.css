@@ -1,0 +1,27 @@
+.main-class{
+    flex-direction: column;
+}
+
+.left{
+    width: 100%;
+    height: 27vh;
+}
+
+.right{
+    width: 100%;
+    height: 85vh;
+    justify-content: flex-start;
+}
+
+.container-right {
+    margin: 2rem;
+}
+
+.btn{
+    width: 64vw;
+}
+
+.desktop-526-item {
+    width: 74%;
+    margin-left: 21vw;
+}

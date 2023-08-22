@@ -1,0 +1,41 @@
+/* Media queries for responsiveness */
+.group-child,
+.group-child1,
+.group-child2,
+.group-inner,
+.group-item,
+.rectangle-div {
+    width: 45px;
+}
+
+.group-child1,
+.group-child2,
+.group-inner,
+.group-item,
+.rectangle-div {
+    left: 60px;
+}
+
+.group-child1,
+.group-child2,
+.group-inner,
+.rectangle-div {
+    left: 120px;
+}
+
+.group-child1,
+.group-child2,
+.rectangle-div {
+    left: 180px;
+}
+
+.group-child1,
+.group-child2 {
+    left: 240px;
+    width: 45px;
+}
+
+.group-child2 {
+    left: 300px;
+    width: 45px;
+}
